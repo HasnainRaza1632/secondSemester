@@ -32,7 +32,7 @@ And yes… I have a big dream 🌍
 1. Clone the repository:
 
 ```bash
-https://github.com/HasnainRaza1632/Second_Semester.git
+https://github.com/HasnainRaza1632/secondSemester.git
 ```
 
 2. Open any `.cpp` file
